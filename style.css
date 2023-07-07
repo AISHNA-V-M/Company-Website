@@ -28,6 +28,7 @@
   nav{
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
   
   nav img {
@@ -52,8 +53,8 @@
   
   /* Hero section styles */
   #hero {
-    /* background-image: url('img/bg.jpg'); */
-    background-color: thistle;
+    background-image: url('img/bg.jpg');
+    /* background-color: thistle; */
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -176,7 +177,7 @@
   
   /* Hero section styles */
   #hero {
-    background-image: url('hero-image.jpg');
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/03/80/06/3757c30a762387b.jpg");
     background-size: cover;
     background-position: center;
     height: 500px;
